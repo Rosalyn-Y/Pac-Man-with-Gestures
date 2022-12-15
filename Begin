@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python3 /home/pi/Final/pacman_start.py&
+python3 /home/pi/Final/stepbystep.py
